@@ -1,0 +1,19 @@
+{{ bootstrap.load_css() }}
+{{ bootstrap.load_js() }}
+
+<!-- templates/page2.html -->
+<div class = "container">
+    <h2>Welcome to page 2</h2>
+</div>
+
+<!-- templates/page2.html -->
+<div class = "container">
+    <a href = "{{ url_for('p3', mood='happy') }}">
+        HAPPY
+    </a>
+    <br>
+    <br>
+    <a href = "{{ url_for('p3', mood='sad') }}">
+        SAD
+    </a>
+</div>

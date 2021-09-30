@@ -1,0 +1,22 @@
+I was able to finish all the extra lab activities.
+The most challanging thing was figuring out the best way to
+perform the letter to decimal conversions. I ended up using a
+dictionary/hashmap to match the letters with it's corresponding value.
+
+Extra Task 1 Input
+('#FF') = 255
+('#74') = 116
+('#7FFF00') = 8388352
+('#9932CC') = 10040012
+('#FF86C2') = 16746178
+
+Extra Task 2 Input
+(250, 250, 70) = ['FA', 'FA', '46']
+(245, 50, 245) = ['F5', '32', 'F5']
+(100, 231, 231) = ['64', 'E7', 'E7']
+
+Extra Task 3 Input
+(70, 240, 150) = The color is greenish.
+(167, 167, 42) = The color is a shade of yellow.
+(223, 67, 223) = The color is a shade of magenta.
+(70, 67, 243) = The color is bluish.

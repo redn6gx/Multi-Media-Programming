@@ -1,0 +1,16 @@
+I was able to complete the whole lab and print all the correct output.
+The part I struggled most with was trying to write my function with
+as few if else statements as possible to keep it neat and concise.
+I was able to complete task 1 with no if else staements, but for task 2 
+I had to have 3 if else statements to make it work.
+
+Task 1 Input
+(205, 96, 144) = The color is reddish.
+(28, 134, 238) = The color is bluish.
+(72, 209, 204) = The color is greenish.
+(237, 145, 33) = The color is reddish.
+
+Task 2 Input
+(250, 250, 70) = The color is a shade of yellow.
+(245, 50, 245) = The color is a shade of magenta.
+(100, 231, 231) = The color is a shade of cyan.

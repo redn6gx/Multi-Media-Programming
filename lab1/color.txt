@@ -1,0 +1,10 @@
+178
+121
+121
+#B27979
+
+How line 7 in Task 3 of lab works:
+    -for loop repeats 3 times
+        -random number in the range of 255 or picked.
+        -Echo gets the output
+    -output is redirected into color.txt file
